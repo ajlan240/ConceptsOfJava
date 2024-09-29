@@ -8,7 +8,7 @@ class Lesson52 {
         
         Map<String, Integer> students  = new HashMap<>();
         students.put("Ajlan", 34);
-        students.put("Rayyan", 94);
+        students.put("Moly", 94);
         students.put("Deepu", 73);
         students.put("Manu", 64);
         // Values Can be changed
