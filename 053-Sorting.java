@@ -50,9 +50,9 @@ import java.util.List;
         // List <String> names = new ArrayList<>();
 
         // names.add("Haloworld");
-        // names.add("deepu");
+        // names.add("rahul");
         // names.add("ajlu");
-        // names.add("Rayyan");
+        // names.add("Moly");
         
 
         // Collections.sort(names,com);
@@ -97,7 +97,7 @@ class Lesson53 {
         List <Students> nums = new ArrayList<>();
 
         nums.add(new Students(21, "Ajlan"));
-        nums.add(new Students(20, "Rayyan"));
+        nums.add(new Students(20, "Rahul"));
         nums.add(new Students(19, "Kiran"));
 
        // System.out.println(nums);
